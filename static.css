@@ -1,0 +1,77 @@
+body{
+	background: pink;
+
+}
+.maindiv{
+	background: skyblue;
+	display: flex;
+	flex-wrap: 
+	justify-content: space-around;
+	margin: 6%;
+	border-radius: 3%;
+
+}
+.leftdiv{
+   background: grey;
+   margin: 2%;
+   width: 5%;
+   text-align: center;
+   border-radius: 3%;
+   padding: 5%;
+
+}
+.rightdiv{
+	background: green;
+	margin: 10%;
+	border-radius: 5%;
+	width: 3%;
+	padding: 4%;
+
+
+}
+img{
+	margin: 3%;
+	width: 60%;
+	border-radius: 5%;
+	height: 50%;
+
+}
+@media screen and (min-width: 430px)and (max-width: 430px){
+
+
+
+
+}
+.maindiv{
+	background: blue;
+	display: flex;
+	flex-wrap: 
+	justify-content: space-around;
+	margin: 3%;
+
+}
+.leftdiv{
+   background: brown;
+   margin: 2%;
+   width: 2%;
+   text-align: center;
+
+}
+.rightdiv{
+	background: green;
+	margin: 10%;
+	border-radius: 5%;
+	width: 3%;
+	height: 3%;
+	padding: 2%;
+
+
+}
+img{
+	margin: 3%;
+	width: 60%;
+	border-radius: 5%;
+	height: 50%;
+	
+}
+

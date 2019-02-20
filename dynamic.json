@@ -1,0 +1,48 @@
+{
+	"profile":{
+		"img":"download.jpg",
+		"name":"mounika",
+		"roll":"1207",
+		"place":"guntur",
+		"email":"mounikk.com"
+
+	},
+	"career":{
+		"info":"i want a white collered job i vll try to explore my best"
+	},
+	"education":[
+		{
+			"degree":"b.tech",
+			"institute":"vignan",
+			"per":"80%",
+			"yop":"2020"
+		},
+		{
+			"degree":"inter",
+			"institute":"scholors",
+			"per":"89%",
+			"yop":"2016"
+
+		},
+		{
+		"degree":"ssc",
+			"institute":"abc",
+			"per":"90%",
+			"yop":"2014"
+	
+		}
+
+	
+	],
+	"languages":[
+		{
+			"info":"english"
+		},
+		{
+			"info":"telugu"
+		},
+		{
+			"info":"hindi"
+		}
+	]
+}
